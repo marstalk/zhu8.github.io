@@ -4,8 +4,8 @@ title: MarsTalk
 tagline: 蚕丛
 description: 2017，我想和这个世界谈谈
 jumbotron__:
-    title: ChenJun(Zhu8)的个人网站
-    body: 我也不知道这是干啥的，擦！
+    title: liujiacheng
+    body: //TODO//FIXME
 ---
 <!-- Nav tabs -->
 <ul class="nav nav-pills nav-justifiedx">
